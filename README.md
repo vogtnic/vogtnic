@@ -1,8 +1,10 @@
 ## 👨🏻‍💻 Nicolas Vogt
 
+**`Desenvolvedor Frontend`**
+
 💻 Apaixonado por tecnologia e inovação, sempre buscando aprender e evoluir no mundo do desenvolvimento.
-</br>
 🎓 Atualmente, curso Análise e Desenvolvimento de Sistemas no Senac e estou em busca de novos desafios para crescer profissionalmente.
+
 ---
 
 ### 🚀 Tecnologias e Ferramentas
