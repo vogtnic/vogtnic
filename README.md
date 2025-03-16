@@ -43,6 +43,7 @@ Mais projetos disponíveis no meu [GitHub](https://github.com/vogtnic)!
 
 </p>
 
+
 ---
 
 ### 📫 Como me encontrar
