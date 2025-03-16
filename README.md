@@ -50,4 +50,4 @@ Mais projetos disponíveis no meu [GitHub](https://github.com/vogtnic)!
 
 ---
 
-💡 *"A tecnologia move o mundo, e eu quero fazer parte dessa mudança!"*
+💡 *"A tecnologia move o mundo e eu quero fazer parte dessa mudança!"*
