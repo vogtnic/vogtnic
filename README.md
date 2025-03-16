@@ -29,7 +29,9 @@ Mais projetos disponíveis no meu [GitHub](https://github.com/vogtnic)!
     src="https://github-readme-stats.vercel.app/api?username=vogtnic&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
     height="180em"
+    style="margin-right: 20px;"
   />
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogtnic&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
     alt="Linguagens mais usadas"
