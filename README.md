@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 Nicolas Vogt
 
-💻 Estudante de tecnologia e entusiasta de novas tecnologias. Sempre em busca de aprender e evoluir na área de desenvolvimento!
-
+🚀 Apaixonado por tecnologia e inovação, sempre buscando aprender e evoluir no mundo do desenvolvimento.
+🎓 Atualmente, curso Análise e Desenvolvimento de Sistemas no Senac e estou em busca de novos desafios para crescer profissionalmente.
 ---
 
 ### 🚀 Tecnologias e Ferramentas
