@@ -22,26 +22,20 @@ Mais projetos disponíveis no meu [GitHub](https://github.com/vogtnic)!
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas no GitHub
 
-<p>
+<div align="center">
   <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vogtnic&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats"
+    height="180em"
   />
-</p>
-
-<p>
   <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogtnic&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogtnic&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+    alt="Linguagens mais usadas"
+    height="180em"
   />
-</p>
+</div>
 
 ---
 
